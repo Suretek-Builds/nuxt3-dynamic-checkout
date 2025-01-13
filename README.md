@@ -1,6 +1,6 @@
 # Nuxt 3 Dynamic Checkout
 
-This repository showcases a *custom checkout solution* built using *Nuxt 3* and *Pinia* for global state management. The checkout system is designed with *performance*, *security*, and *modularity* in mind, providing a highly dynamic and scalable solution for eCommerce stores. This checkout adapts dynamically to various factors like pricing, shipping methods, and user preferences.
+This repository showcases a **custom checkout solution** built using *Nuxt 3* and *Pinia* for global state management. The checkout system is designed with *performance*, *security*, and *modularity* in mind, providing a highly dynamic and scalable solution for eCommerce stores. This checkout adapts dynamically to various factors like pricing, shipping methods, and user preferences.
 
 ## 🚀 Key Features
 
