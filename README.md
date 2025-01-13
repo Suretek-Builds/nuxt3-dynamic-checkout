@@ -16,7 +16,7 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 ---
 
 ## 🚀 Key Features
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ### 1. *Dynamic and Modular Architecture*
 - *Reusable Components:* Modular components for reusable styles and consistent design.
@@ -60,7 +60,7 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 - *Tag Management:* Integrated with *Google Tag Manager* for easy management of tags like analytics, marketing, and remarketing tags, allowing flexible tracking and monitoring of user behavior.
 
 ## 🛠️ Technologies Used
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
 - *Nuxt 3* (Vue.js-based server-side rendering and static site generation)
 - *Pinia* (Global state management)
@@ -71,7 +71,7 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 - *Encryption* (Securing sensitive data)
 
 ## 📂 Folder Structure
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
 - 📂 nuxt3-dynamic-checkout
 - ├── 📁 assets             # Static assets (images, fonts, etc.)
@@ -89,12 +89,12 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 - └── 📄 LICENSE             # License information
 
 ## 🌟 Why This Checkout?
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
 This solution provides a *custom Shopify checkout* that integrates with *Checkout Champ* to streamline product management and order handling. It also enhances profitability through *upsell and downsell* features, allowing businesses to offer additional products to users at the checkout. The system is *secure*, *modular*, and *dynamic*, ensuring smooth user experience and easy adaptability to business needs.
 
 ## 📸 Screenshots
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ### Checkout Page UI
 ![Checkout Page](assets/checkout-ui.png)
@@ -103,7 +103,7 @@ This solution provides a *custom Shopify checkout* that integrates with *Checkou
 ![Workflow](assets/workflow-diagram.png)
 
 ## 🔧 Setup Instructions
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
 To get this project running on your local machine, follow these steps:
 
@@ -126,12 +126,12 @@ To get this project running on your local machine, follow these steps:
 This app will be available at http://localhost:3000.
 
 ## 📄 License
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
 This project is licensed under the *MIT License* - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contact Us
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
 For inquiries, custom checkout solutions, or business services, please contact us:
 - Email: mailto:info@yourcompany.com
