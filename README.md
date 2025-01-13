@@ -4,7 +4,7 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 
 ## 📂 Table of Contents
 - [Key Features](#-key-features)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#%EF%B8%8F-technologies-used)
 - [Setup Instructions](#-setup-instructions)
 - [Folder Structure](#-folder-structure)
 - [API Information](#-api-information)
