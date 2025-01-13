@@ -1,4 +1,4 @@
-# Nuxt 3 Custom Checkout for Shopify with Checkout Champ Integration
+****# Nuxt 3 Custom Checkout for Shopify with Checkout Champ Integration
 
 This repository contains a **custom Shopify checkout solution** built using **Nuxt 3** and **Pinia** for global state management. It integrates with **Checkout Champ** for **product listing, order creation, and management**, while adding dynamic features like **upsell** and **downsell** for improved business profitability.
 
