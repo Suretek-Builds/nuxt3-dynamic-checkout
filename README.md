@@ -45,3 +45,12 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 - *Encryption* (Securing sensitive data)
 
 ## 📂 Folder Structure
+- 📂 nuxt3-dynamic-checkout
+- ├── 📁 components         # Reusable Vue components for UI
+- ├── 📁 composables         # Global functions and utilities
+- ├── 📁 configs             # Centralized configuration for dynamic rendering
+- ├── 📁 stores              # Pinia state management files
+- ├── 📁 server              # Server-side API handlers and logic (Checkout Champ integration)
+- ├── 📁 public              # Static assets (images, styles)
+- ├── 📄 README.md           # Documentation
+- └── 📄 LICENSE             # License information
