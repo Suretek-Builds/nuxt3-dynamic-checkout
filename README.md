@@ -98,6 +98,10 @@ This solution provides a *custom Shopify checkout* that integrates with *Checkou
 
 ### Checkout Page UI
 ![Checkout Page](assets/screenshots/checkout-page.png)
+![Loading Skeleton](assets/screenshots/loading-skeleton.png)
+![Offer 1](assets/screenshots/offer1.png)
+![Offer 2](assets/screenshots/offer2.png)
+![Thankyou Page](assets/screenshots/thankyou-page.png)
 
 ### Workflow Diagram
 ![Workflow](assets/workflow-diagram.png)
