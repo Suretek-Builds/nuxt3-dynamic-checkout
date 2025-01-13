@@ -93,4 +93,14 @@ To get this project running on your local machine, follow these steps:
    ```bash
    npm run dev
 
-This app will be available at ```bash http://localhost:3000.
+This app will be available at http://localhost:3000.
+
+## 📄 License
+
+This project is licensed under the *MIT License* - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contact Us
+
+For inquiries, custom checkout solutions, or business services, please contact us:
+- Email: mailto:info@yourcompany.com
+- Website: https://yourcompany.com
