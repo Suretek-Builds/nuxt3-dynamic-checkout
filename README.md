@@ -35,12 +35,16 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 - *Global State Management:* Uses *Pinia* to manage the global state, such as cart contents, pricing details, and upsell products.
 - *Reactive UI:* Real-time updates across all components as users interact with the checkout, cart, or upsell/downsell options.
 
+### 9. *Loading Skeleton for Dynamic Product Loading*
+- *Smooth User Experience:* A loading skeleton is displayed until the product data is dynamically loaded, providing a seamless transition and improving user experience during the loading phase.
+- *Visual Feedback:* The skeleton enhances the perceived performance of the checkout process by giving users clear visual feedback while content is being fetched.
+
 ## 🛠️ Technologies Used
 - *Nuxt 3* (Vue.js-based server-side rendering and static site generation)
 - *Pinia* (Global state management)
 - *Checkout Champ* (Product listing, order creation, and management)
 - *Nitro Server* (High-performance server-side processing)
-- *JavaScript/TypeScript* (For logic and configuration)
+- *TypeScript* (For logic and configuration)
 - *Custom API Handlers* (Efficient API communication and caching)
 - *Encryption* (Securing sensitive data)
 
