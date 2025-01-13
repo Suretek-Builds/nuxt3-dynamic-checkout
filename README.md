@@ -56,15 +56,19 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 
 ## 📂 Folder Structure
 - 📂 nuxt3-dynamic-checkout
-- ├── 📁 components         # Reusable Vue components for UI
+- ├── 📁 assets             # Static assets (images, fonts, etc.)
+- ├── 📁 components         # Reusable UI components
 - ├── 📁 composables         # Global functions and utilities
-- ├── 📁 configs             # Centralized configuration for dynamic rendering
+- ├── 📁 configs             # Centralized config for dynamic content and behavior
+- ├── 📁 layouts             # Layouts for consistent page structure
+- ├── 📁 middleware          # Middleware for route protection and logic
+- ├── 📁 pages               # Pages for routing (e.g., checkout, upsell)
+- ├── 📁 plugins             # Third-party plugin integrations (e.g., CAPI, GTM)
 - ├── 📁 stores              # Pinia state management files
 - ├── 📁 server              # Server-side API handlers and logic (Checkout Champ integration)
-- ├── 📁 public              # Static assets (images, styles)
+- ├── 📁 utils               # Utility functions for common operations
 - ├── 📄 README.md           # Documentation
 - └── 📄 LICENSE             # License information
-
 
 ## 🌟 Why This Checkout?
 
