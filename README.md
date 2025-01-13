@@ -142,5 +142,5 @@ This project is licensed under the *MIT License* - see the [LICENSE](LICENSE) fi
 [Back to Top](#-table-of-contents)
 
 For inquiries, custom checkout solutions, or business services, please contact us:
-- Email: mailto:info@yourcompany.com
-- Website: https://yourcompany.com
+- Email: mailto:info@suretekinfosoft.com
+- Website: https://suretekinfosoft.com
