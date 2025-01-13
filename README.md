@@ -39,6 +39,12 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 - *Smooth User Experience:* A loading skeleton is displayed until the product data is dynamically loaded, providing a seamless transition and improving user experience during the loading phase.
 - *Visual Feedback:* The skeleton enhances the perceived performance of the checkout process by giving users clear visual feedback while content is being fetched.
 
+### 10. *Facebook Conversions API (CAPI) Integration*
+- *Tracking & Analytics:* Integrated with *Facebook CAPI* to track conversion events directly from the server, improving accuracy and data integrity for ad campaigns and remarketing efforts.
+
+### 11. *Google Tag Manager (GTM) Integration*
+- *Tag Management:* Integrated with *Google Tag Manager* for easy management of tags like analytics, marketing, and remarketing tags, allowing flexible tracking and monitoring of user behavior.
+
 ## 🛠️ Technologies Used
 - *Nuxt 3* (Vue.js-based server-side rendering and static site generation)
 - *Pinia* (Global state management)
