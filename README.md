@@ -84,3 +84,13 @@ To get this project running on your local machine, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd nuxt3-dynamic-checkout
+
+3. Install dependencies:
+   ```bash
+   npm install
+
+4. Run the development server:
+   ```bash
+   npm run dev
+
+This app will be available at ```bash http://localhost:3000.
