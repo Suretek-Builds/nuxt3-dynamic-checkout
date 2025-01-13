@@ -4,7 +4,10 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 
 ## 📂 Table of Contents
 - [Key Features](#-key-features)
+- [Technologies Used](#-technology-used)
 - [Folder Structure](#-folder-structure)
+- [Why This Checkout?](#-why-this-checkout?)
+- [Screenshots](#-screenshots)
 - [API Information](#-api-information)
 - [License](#-license)
 - [Contact Us](#-contact-us)
@@ -89,12 +92,6 @@ This solution provides a *custom Shopify checkout* that integrates with *Checkou
 
 ### Workflow Diagram
 ![Workflow](assets/workflow-diagram.png)
-
-## 📖 Documentation
-1. [Project Overview](docs/overview.md)
-2. [Features](docs/features.md)
-3. [API Integration Guide](docs/api-guide.md)
-4. [Setup Instructions](docs/setup.md)
 
 ## 🔧 Setup Instructions
 
