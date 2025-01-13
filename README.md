@@ -54,3 +54,29 @@ This repository contains a **custom Shopify checkout solution** built using **Nu
 - ├── 📁 public              # Static assets (images, styles)
 - ├── 📄 README.md           # Documentation
 - └── 📄 LICENSE             # License information
+
+
+## 🌟 Why This Checkout?
+
+This solution provides a *custom Shopify checkout* that integrates with *Checkout Champ* to streamline product management and order handling. It also enhances profitability through *upsell and downsell* features, allowing businesses to offer additional products to users at the checkout. The system is *secure*, *modular*, and *dynamic*, ensuring smooth user experience and easy adaptability to business needs.
+
+## 📸 Screenshots
+### Checkout Page UI
+![Checkout Page](assets/checkout-ui.png)
+
+### Workflow Diagram
+![Workflow](assets/workflow-diagram.png)
+
+## 📖 Documentation
+1. [Project Overview](docs/overview.md)
+2. [Features](docs/features.md)
+3. [API Integration Guide](docs/api-guide.md)
+4. [Setup Instructions](docs/setup.md)
+
+## 🔧 Setup Instructions
+
+To get this project running on your local machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/nuxt3-dynamic-checkout.git
