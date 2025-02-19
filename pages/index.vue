@@ -85,4 +85,19 @@ onMounted(async () => {
   const newQuery = mergeParams({});
   router.push({ query: newQuery });
 });
+
+  onMounted(() => {
+  document.addEventListener('copy', (e) => {
+    e.preventDefault(); // Prevent default copy action
+
+    // Custom message to replace copied text
+    const message = "Copying is not allowed. All rights reserved ©";
+
+    if (e.clipboardData) {
+      e.clipboardData.setData("text/plain", message);
+    }
+
+    // alert("Copying is restricted!"); // Show a warning to the user
+  });
+});
 </script>
